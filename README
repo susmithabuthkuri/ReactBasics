@@ -1,0 +1,12 @@
+#React Basics
+- React is a library , which can work inside a function too.
+- With React we can create full fledged app with the help of bundler and other packages
+- installing react from CDN
+  - with cdn link , network call happen when script encounters, unlike node modules
+  - after package downloaded , it will be available on browser so no need to import react in ur js
+  - 
+- JS module 
+  - pure JS does not understand import export so we have to pass type="module" to script
+- Creating React element
+- Creating ReactDOM root
+- intializing git repo
